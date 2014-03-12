@@ -220,7 +220,8 @@ pip-log.txt
 ####################
 
 # Packages, scripts and images
-CC/Packages
+CC/Packages/*
+!CC/Packages/repositories.config
 CC/CC.Web/Scripts
 CC/CC.Web/content/images/
 CC/CC.Web/fonts
