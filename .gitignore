@@ -213,3 +213,19 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+####################
+## AngularHotTowel
+####################
+
+# Packages, scripts and images
+CC/Packages
+CC/CC.Web/Scripts
+CC/CC.Web/content/images/
+CC/CC.Web/fonts
+
+# css, less, fonts, pngs
+CC/CC.Web/content/*.css
+CC/CC.Web/content/*.less
+CC/CC.Web/content/*.less
