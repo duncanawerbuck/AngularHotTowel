@@ -221,3 +221,4 @@ pip-log.txt
 
 CC/Packages/**
 !CC/Packages/repositories.config
+CC/CC.Web/_bin_deployableAssemblies
