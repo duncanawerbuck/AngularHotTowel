@@ -219,6 +219,5 @@ pip-log.txt
 ## AngularHotTowel
 ####################
 
-# Packages, scripts and images
 CC/Packages/**
 !CC/Packages/repositories.config
